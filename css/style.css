@@ -1,8 +1,9 @@
 body {
     font-size: 1.2rem;
+    background-color: rgb(70, 69, 69);
 }
 .container {
-    width: min(80ch, 100vw - 4rem);
+    width: min(80ch, 100vw - 10rem);
     margin-inline: auto;
 }
 
